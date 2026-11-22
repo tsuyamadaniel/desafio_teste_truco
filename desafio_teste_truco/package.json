@@ -1,0 +1,9 @@
+{
+  "name": "desafio_teste_truco",
+  "version": "1.0.0",
+  "description": "Desafio de testes de software em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
